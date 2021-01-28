@@ -1,6 +1,6 @@
 # Assignment2-cpsc298
-#Laila Hardisty
+Laila Hardisty
 #2346835
-#References
+References
 	Zybooks
 	cplusplus.com
